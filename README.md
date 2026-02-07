@@ -1,3 +1,7 @@
+## 🔗 Live Demo
+👉 https://chandank8797.github.io/Simon-Says-Game
+
+
 # Simon Says Game 🎮
 
 A Simon Says memory game built using HTML, CSS, and JavaScript.
